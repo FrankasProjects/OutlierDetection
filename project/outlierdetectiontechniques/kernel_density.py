@@ -126,7 +126,11 @@ def calc_kde():
 
     # TODO: START HERE (But execute the first lines of the method(until while loop))
     # df_result.to_csv('Resources/results.csv')
-    df_result = pd.read_csv("./Resources/results.csv")
+    # df_result = pd.read_csv("./Resources/results.csv")
+    df_result = pd.read_csv("./Resources/results_0.csv")
+    df_result.append(pd.read_csv("./Resources/results_1.csv"))
+    df_result.append(pd.read_csv("./Resources/results_2.csv"))
+    df_result.append(pd.read_csv("./Resources/results_3.csv"))
     # general_stats_total.to_csv('Resources/general_stats.csv')
     general_stats_total = pd.read_csv("./Resources/general_stats.csv")
     general_stats_total.to_latex()
