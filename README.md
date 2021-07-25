@@ -18,9 +18,8 @@ Follow the insctruction for the database setup, as well as the explanations abou
 2. Create a new database (on localhost). Either via the GUI or via the CMD
 3. Create a new user with password
 4. Assign privileges to the user
-5. Download database dump: https://gigamove.rz.rwth-aachen.de/d/id/Mie77HNzt2fCHF Password: ldistuttgart
+5. Download database dump (currently not provided)
 6. Extract database dump from .zip
-7. Link is only valid for a maximum of 14 days(Valid until: 26.05.2021). If link is invalid mail: franka-maria.knoch@stud.uni-bamberg.de
 8. Import the database dump
 
 ## Sourcecode Setup
