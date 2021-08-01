@@ -8,6 +8,12 @@ Therefore, the sensors are grouped into smaller clusters via an agglomerative hi
 On these clusters the Outlier Detection Techniques Box Plot, Kernel Density Estimation, and Isolation Forest are applied.\
 The results, plots, and further statistics are provided by this project.
 
+# Results
+
+Resulting Plots can be seen in results/graphics. 
+Request the full thesis via E-Mail.
+
+
 # Instructions
 
 Follow the insctruction for the database setup, as well as the explanations about the project structure to obtain results.
